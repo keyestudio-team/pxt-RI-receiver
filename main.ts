@@ -172,7 +172,6 @@ namespace irReceiver {
      * github:https://github.com/mworkfun
      * Write the date: 2020-5-15
      */
-    //% subcategory="IR Remote"
     //% blockId="infrared_connect"
     //% block="connect IR receiver at %IR_pin"
     //% IR_pin.fieldEditor="gridpicker"
@@ -190,7 +189,6 @@ namespace irReceiver {
      * github:https://github.com/mworkfun
      * Write the date: 2020-5-15
      */
-    //% subcategory="IR Remote"
     //% blockId=infrared_button
     //% button.fieldEditor="gridpicker"
     //% button.fieldOptions.columns=3
@@ -207,7 +205,6 @@ namespace irReceiver {
      * github:https://github.com/mworkfun
      * Write the date: 2020-5-18
      */
-    //% subcategory="IR Remote"
     //% blockId=infrared_pressed_button
     //% block="IR button"
     //% weight=97
